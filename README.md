@@ -3,7 +3,7 @@
 clean project
 run springboot application
 for user page 
-https://localhost:8080/index
+http://localhost:8080/index
 
 for admin page
-https://localhost:8080/admin/index
+http://localhost:8080/admin/index
